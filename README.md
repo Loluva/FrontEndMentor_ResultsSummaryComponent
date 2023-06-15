@@ -8,8 +8,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [MyProcess](#My process)
-  - [BuiltWith](#Built with)
+- [My Process](#my-process)
+  - [Built With](#built-with)
 
 ## Overview
 
@@ -23,10 +23,8 @@ Users should be able to:
 ### Screenshot
 
 Desktop View
-![](/assets/images/solution/desktopView.png)
 
-Movile View
-![](/assets/images/solution/movileView.png)
+![](/assets/images/solution/desktopView.png)
 
 ### Links
 
